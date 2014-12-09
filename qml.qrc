@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plasmoid-qml/contents/ui/main.qml</file>
+    </qresource>
+</RCC>

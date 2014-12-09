@@ -1,0 +1,22 @@
+[Desktop Entry]
+Comment=Indicates current Load Shedding state
+Encoding=UTF-8
+Icon=Charm
+Keywords=
+Name=Load Shedder
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Ross Simpson
+X-KDE-PluginInfo-Category=Online Services
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=simpson.ross@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=za.co.silvercode
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-DefaultSize=200,100
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
